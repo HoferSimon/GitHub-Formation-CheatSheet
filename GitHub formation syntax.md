@@ -150,6 +150,11 @@ This text is not quoted.
 
 Output:
 
+[This is a image](/Screenshot-20220624205013-841x76.png)
+
+
+
+
 
 ## Links
 
