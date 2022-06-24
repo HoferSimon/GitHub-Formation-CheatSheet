@@ -4,7 +4,7 @@
 
 ## Headings
 
-To create a heading in your file you can add the following syntax before the text '#'. You can also put multiple
+To create a heading in your file you can add the following syntax before the text `#`. You can also put multiple
 
 ## Styling text
 
