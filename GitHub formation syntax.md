@@ -53,7 +53,7 @@ or
 
 **This is a bold text**
 
-<br />
+---
 
 ### Italic
 
