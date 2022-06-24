@@ -33,7 +33,6 @@ Output:
 There are several ways to customize your text.
 
 <br />
-<br />
 
 ### Bold
 
@@ -54,7 +53,6 @@ or
 
 **This is a bold text**
 
-<br />
 <br />
 
 ### Italic
@@ -77,7 +75,6 @@ or
 *This is a bold text*
 
 <br />
-<br />
 
 ### Strikethrough
 
@@ -94,7 +91,6 @@ or
 
 ~~This is a strikethrough text~~
 
-<br />
 <br />
 
 ### Subscript
@@ -113,7 +109,6 @@ or
 <sub>This is a subscript text</sub>
 
 <br />
-<br />
 
 ### Superscript
 
@@ -130,7 +125,6 @@ or
 
 <sup>This is a superscript text</sup>
 
-<br />
 <br />
 
 ## Quoting text and code
