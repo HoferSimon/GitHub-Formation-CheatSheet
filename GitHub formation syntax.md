@@ -51,21 +51,79 @@ or
 
 #### Output
 
-
-
 **This is a bold text**
+
+
 
 ### Italic
 
+
+#### Syntax
+
+`* *` or `_ _`
+
+#### Example
+
+`*This is a italic text*`
+
+or
+
+`_This is a italic text_`
+
+#### Output
+
+*This is a bold text*
+
+
+
 ### Strikethrough
 
-### Bold and nested italic
 
-### All bold and italic
+#### Syntax
+
+`~~ ~~`
+
+#### Example
+
+`~~This is a strikethrough text~~`
+
+#### Output
+
+~~This is a strikethrough text~~
+
+
 
 ### Subscript
 
+
+#### Syntax
+
+`<sub> </sub>`
+
+#### Example
+
+`<sub>This is a subscript text</sub>`
+
+#### Output
+
+<sub>This is a subscript text</sub>
+
+
+
 ### Superscript
+
+
+#### Syntax
+
+`<sup> </sup>`
+
+#### Example
+
+`<sup>This is a superscript text</sup>`
+
+#### Output
+
+<sup>This is a superscript text</sup>
 
 
 
