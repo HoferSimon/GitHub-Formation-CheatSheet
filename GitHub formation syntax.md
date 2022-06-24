@@ -8,7 +8,7 @@
 
 ## Headings
 
-To create a heading in your file you can add the following syntax before the text `#`. You can also put multiple `#` infront of the text, the maximum is 6.
+> To create a heading in your file you can add the following syntax before the text `#`. You can also put multiple `#` infront of the text, the maximum is 6.
 
 
 Code:
@@ -22,15 +22,18 @@ Code:
 ###### Heading 6
 ```
 
+
 Output:
 
 ![This is a image](/Screenshot-20220624201243-854x293.png)
 
 
 
+
+
 ## Styling text
 
-There are several ways to customize your text.
+> There are several ways to customize your text.
 
 ---
 
@@ -51,7 +54,7 @@ or
 
 #### Output
 
-**This is a bold text**
+**This is a bold text.**
 
 ---
 
@@ -72,7 +75,7 @@ or
 
 #### Output
 
-*This is a bold text*
+*This is a bold text.*
 
 ---
 
@@ -89,7 +92,7 @@ or
 
 #### Output
 
-~~This is a strikethrough text~~
+~~This is a strikethrough text.~~
 
 ---
 
@@ -106,7 +109,7 @@ or
 
 #### Output
 
-<sub>This is a subscript text</sub>
+<sub>This is a subscript text.</sub>
 
 ---
 
@@ -123,11 +126,30 @@ or
 
 #### Output
 
-<sup>This is a superscript text</sup>
+<sup>This is a superscript textx.</sup>
 
----
+
+
+
 
 ## Quoting text and code
+
+> You can quote a text with the following syntax `>`.
+
+
+Code:
+
+```
+This text is not quoted.
+
+> This text is quoted.
+```
+This text is not quoted.
+
+> This text is quoted.
+
+Output:
+
 
 ## Links
 
