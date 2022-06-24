@@ -18,6 +18,7 @@ Code:
 ```
 
 Output:
+
 ![This is a image](/Screenshot-20220624201243-854x293.png)
 
 
