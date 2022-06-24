@@ -34,6 +34,8 @@ There are several ways to customize your text.
 
 
 
+
+
 ### Bold
 
 
@@ -52,6 +54,8 @@ or
 #### Output
 
 **This is a bold text**
+
+
 
 
 
@@ -76,6 +80,8 @@ or
 
 
 
+
+
 ### Strikethrough
 
 
@@ -90,6 +96,8 @@ or
 #### Output
 
 ~~This is a strikethrough text~~
+
+
 
 
 
@@ -110,6 +118,8 @@ or
 
 
 
+
+
 ### Superscript
 
 
@@ -124,6 +134,8 @@ or
 #### Output
 
 <sup>This is a superscript text</sup>
+
+
 
 
 
