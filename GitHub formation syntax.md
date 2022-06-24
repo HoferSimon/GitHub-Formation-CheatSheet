@@ -8,6 +8,13 @@ To create a heading in your file you can add the following syntax before the tex
 
 Code:
 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
 ```
 # Heading 1
 ## Heading 2
@@ -18,7 +25,7 @@ Code:
 ```
 
 Output:
-
+[This is a image]()
 
 
 ## Styling text
