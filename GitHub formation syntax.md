@@ -2,9 +2,14 @@
 
 > This Repository should introduce you to the Github formation syntax.
 
+
+
+
+
 ## Headings
 
 To create a heading in your file you can add the following syntax before the text `#`. You can also put multiple `#` infront of the text, the maximum is 6.
+
 
 Code:
 
@@ -22,8 +27,52 @@ Output:
 ![This is a image](/Screenshot-20220624201243-854x293.png)
 
 
+
 ## Styling text
+
+There are several ways to customize your text.
+
+
+
+### Bold
+
+
+#### Syntax
+
+`** **` or `__ __`
+
+#### Example
+
+`**This is a bold text**`
+
+or
+
+`__This is a bold text__`
+
+#### Output
+
+
+
+**This is a bold text**
+
+### Italic
+
+### Strikethrough
+
+### Bold and nested italic
+
+### All bold and italic
+
+### Subscript
+
+### Superscript
+
+
 
 ## Quoting text and code
 
 ## Links
+
+## Images
+
+## Lists
