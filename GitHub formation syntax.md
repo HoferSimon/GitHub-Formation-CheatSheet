@@ -144,9 +144,7 @@ This text is not quoted.
 
 > This text is quoted.
 ```
-This text is not quoted.
 
-> This text is quoted.
 
 Output:
 
