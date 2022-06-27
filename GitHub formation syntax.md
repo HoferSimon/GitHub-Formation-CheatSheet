@@ -164,7 +164,7 @@ This link will open GitHub in a new Tab [GitHub](https://github.com).
 
 Output:
 
-This link will open GitHub in a new Tab [GitHub](https://github.com){:target="_blank"}.
+This link will open GitHub in a new Tab [GitHub](https://github.com){:target="_blank" rel="noopener"}.
 
 
 
