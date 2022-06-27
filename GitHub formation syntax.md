@@ -156,6 +156,18 @@ Output:
 
 ## Links
 
+You can create a link with the following syntax `[text](url)`. In the `[]` you can put the text, that will be shown in the link and in the `()` you can put the url.
+
+Code:
+
+```
+This link will open GitHub in a new Tab [GitHub](https://github.com).
+```
+
+Output:
+
+
+
 ## Images
 
 ## Lists
