@@ -59,7 +59,6 @@ or
 
 **This is a bold text.**
 
----
 
 ### Italic
 
@@ -79,7 +78,6 @@ or
 
 *This is a bold text.*
 
----
 
 ### Strikethrough
 
@@ -95,7 +93,6 @@ or
 
 ~~This is a strikethrough text.~~
 
----
 
 ### Subscript
 
@@ -111,7 +108,6 @@ or
 
 <sub>This is a subscript text.</sub>
 
----
 
 ### Superscript
 
