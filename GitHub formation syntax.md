@@ -184,6 +184,6 @@ This is an awesome image ![Awesome](https://images.unsplash.com/photo-1656182863
 
 Output:
 
-![This is a image](/Screenshot-20220627132755-543x817.png)
+![This is a image](/Screenshot-20220624201244-854x293.png)
 
 ## Lists
