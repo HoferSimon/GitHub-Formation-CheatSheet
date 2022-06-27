@@ -32,8 +32,6 @@ Output:
 ##### Heading 5
 ###### Heading 6
 
-![This is a image](/Screenshot-20220624201243-854x293.png)
-
 
 
 
@@ -155,7 +153,9 @@ This text is not quoted.
 
 Output:
 
-![This is a image](/Screenshot-20220624205013-841x76.png)
+This text is not quoted.
+
+> This text is quoted.
 
 
 
@@ -173,7 +173,7 @@ This link will open GitHub in a new Tab [GitHub](https://github.com).
 
 Output:
 
-[Open GitHub in a new Tab]
+This link will open GitHub in a new Tab [GitHub](https://github.com).
 
 
 
@@ -191,7 +191,11 @@ This is an awesome image. ![This is a image](https://images.unsplash.com/photo-1
 
 Output:
 
-![This is a image](/Screenshot-20220624201244-854x293.png)
+This is an awesome image. ![This is a image](https://images.unsplash.com/photo-1656182863374-89b256cca08e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+
+
+
+
 
 ## Lists
 
