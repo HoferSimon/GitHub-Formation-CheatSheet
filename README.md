@@ -8,4 +8,4 @@ GitHub formation syntax instruction
 
 State:
 
-Finished
+Completed
