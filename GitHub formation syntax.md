@@ -33,7 +33,7 @@ Output:
 ###### Heading 6
 
 
-
+<br/>
 
 
 ## Styling text
@@ -124,7 +124,7 @@ or
 <sup>This is a superscript textx.</sup>
 
 
-
+<br/>
 
 
 ## Quoting text and code
@@ -148,7 +148,7 @@ This text is not quoted.
 > This text is quoted.
 
 
-
+<br/>
 
 
 ## Links
@@ -167,7 +167,7 @@ Output:
 This link will open [GitHub.com](https://github.com).
 
 
-
+<br/>
 
 
 ## Images
@@ -186,7 +186,7 @@ Output:
 This is an awesome image. ![This is a image](https://images.unsplash.com/photo-1656182863374-89b256cca08e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
 
 
-
+<br/>
 
 
 ## Lists
