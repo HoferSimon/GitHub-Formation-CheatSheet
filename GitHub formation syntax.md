@@ -166,8 +166,24 @@ This link will open GitHub in a new Tab [GitHub](https://github.com).
 
 Output:
 
+[Open GitHub in a new Tab]
+
+
+
 
 
 ## Images
+
+You can create an image with the following syntax `![This is a image](url)`. In the `[]` you can put the text, that will be shown in the image and in the `()` you can put the url.
+
+Code:
+
+```
+This is an awesome image ![Awesome](https://images.unsplash.com/photo-1656182863374-89b256cca08e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+```
+
+Output:
+
+
 
 ## Lists
