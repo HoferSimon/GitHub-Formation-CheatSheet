@@ -159,12 +159,12 @@ This text is not quoted.
 Code:
 
 ```
-This link will open GitHub in a new Tab [GitHub](https://github.com).
+This link will open [GitHub.com](https://github.com).
 ```
 
 Output:
 
-This link will open GitHub in a new Tab [GitHub](https://github.com){:target="_blank" rel="noopener"}.
+This link will open [GitHub.com](https://github.com).
 
 
 
