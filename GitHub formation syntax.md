@@ -3,7 +3,7 @@
 > This Repository should introduce you to the Github formation syntax.
 
 
-<br/>
+<br/><br/>
 
 
 ## Headings
@@ -33,7 +33,7 @@ Output:
 ###### Heading 6
 
 
-<br/>
+<br/><br/>
 
 
 ## Styling text
