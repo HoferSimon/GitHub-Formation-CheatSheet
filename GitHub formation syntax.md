@@ -163,7 +163,7 @@ This text is not quoted.
 
 ## Links
 
-You can create a link with the following syntax `[text](url)`. In the `[]` you can put the text, that will be shown in the link and in the `()` you can put the url.
+> You can create a link with the following syntax `[text](url)`. In the `[]` you can put the text, that will be shown in the link and in the `()` you can put the url.
 
 Code:
 
@@ -181,7 +181,7 @@ This link will open GitHub in a new Tab [GitHub](https://github.com).
 
 ## Images
 
-You can create an image with the following syntax `![This is a image](url)`. In the `[]` you can put the text, that will be shown in the image and in the `()` you can put the url.
+> You can create an image with the following syntax `![This is a image](url)`. In the `[]` you can put the text, that will be shown in the image and in the `()` you can put the url.
 
 Code:
 
@@ -199,4 +199,18 @@ This is an awesome image. ![This is a image](https://images.unsplash.com/photo-1
 
 ## Lists
 
-You can make a list with the following syntax `-`.
+> You can make a list with the following syntax `-`.
+
+Code:
+
+```
+- This is a list
+- This is a list
+- This is a list
+```
+
+Output:
+
+- This is a list
+- This is a list
+- This is a list
