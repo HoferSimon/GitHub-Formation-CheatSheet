@@ -1,6 +1,6 @@
-# GitHub formation syntax
+# GitHub Formation CheatSheet
 
-> This Repository should introduce you to the Github formation syntax.
+> This Repository should introduce you to the Github Formation CheatSheet.
 
 
 <br/><br/>
