@@ -1,6 +1,6 @@
 # GitHub Formation CheatSheet
 
-> This Repository should introduce you to the Github Formation CheatSheet.
+> This Repository should introduce you to the GitHub Formation CheatSheet.
 
 
 <br/><br/>
@@ -159,12 +159,12 @@ This text is not quoted.
 Code:
 
 ```
-This link will open [GitHub.com](https://github.com).
+This link will open [GitHub.com](https://GitHub.com).
 ```
 
 Output:
 
-This link will open [GitHub.com](https://github.com).
+This link will open [GitHub.com](https://GitHub.com).
 
 
 <br/><br/>
