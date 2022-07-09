@@ -1,10 +1,10 @@
 Name:
 
-GitHub formation syntax
+GitHub-Formation-CheatSheet
 
 Description:
 
-GitHub formation syntax instruction
+GitHub-Formation-CheatSheet instruction
 
 State:
 
